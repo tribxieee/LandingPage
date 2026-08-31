@@ -34,3 +34,4 @@ document.querySelectorAll('.btn-primary, .btn-secondary').forEach(anchor => {
     }
   });
 });
+
